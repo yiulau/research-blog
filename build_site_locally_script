@@ -1,3 +1,3 @@
 # Use the line below to build site locally (preview before going online)
-bundle exec jerkyll serve
+bundle exec jekyll serve
 
