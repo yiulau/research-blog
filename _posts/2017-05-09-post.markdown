@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Create slide by beamer"
+categories: jekyll update 
+---
+
+Created a slide by beamer and wrote down 5 tasks I plan to complete.
+
+See [here](https://github.com/yiulau/thesis/blob/master/notes/beamer_test.pdf) for pdf.
+
+
+
+
+
+
